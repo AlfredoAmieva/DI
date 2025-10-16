@@ -1,0 +1,3 @@
+function esMayorDeEdad(edad){
+    
+}
